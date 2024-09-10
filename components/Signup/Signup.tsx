@@ -31,7 +31,8 @@ const Signup = () => {
   const t = useTranslations("SignUp");
   const router = useRouter();
   const { toast } = useToast();
-  const langPath = document.cookie.split("=")[1];
+  const langPath =
+    window.document.cookie && window.document.cookie.split("=")[1];
 
   const uploadProfilePic = async () => {
     setUploadLoading(true);

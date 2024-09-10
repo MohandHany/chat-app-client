@@ -8,7 +8,6 @@ import {
 } from "../ui/dropdown-menu";
 import { Button } from "../ui/button";
 import { useTheme } from "next-themes";
-import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 
 const Theming = () => {
