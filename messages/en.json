@@ -1,0 +1,50 @@
+{
+  "FormAuth": {
+    "signUpTab": "Sign Up",
+    "signInTab": "Sign In"
+  },
+  "SignUp": {
+    "title": "Sign Up",
+    "username": "Username",
+    "usernamePlaceholder": "Enter your username",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "profilePic": "Profile Picture",
+    "uploadButton": "Upload",
+    "button": "Sign Up",
+    "toaster": {
+      "titleSuccess": "Success",
+      "titleError": "Wrong",
+      "messageUpload": "Profile picture uploaded successfully",
+      "messageUploadError": "There was an error uploading the profile picture",
+      "messageEmptyFields": "Enter all fields",
+      "messageConfirmPassword": "Passwords do not match",
+      "messageSignUp": "Account created successfully",
+      "messageError": "Something went wrong, please try again"
+    }
+  },
+  "SignIn": {
+    "title": "Sign In",
+    "username": "Username",
+    "email": "Email",
+    "inputPlaceholder": "Enter your username or email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "button": "Sign In",
+    "toaster": {
+      "titleSuccess": "Success",
+      "titleError": "Wrong",
+      "messageSignIn": "Sign in successful",
+      "messageError": "Wrong email or username or password",
+      "messageEmptyFields": "Enter all fields"
+    }
+  },
+  "Theming": {
+    "dark": "Dark",
+    "light": "Light"
+  }
+}

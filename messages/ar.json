@@ -1,0 +1,50 @@
+{
+  "FormAuth": {
+    "signUpTab": "أنشاء حساب",
+    "signInTab": "تسجيل الدخول"
+  },
+  "SignUp": {
+    "title": "أنشاء حساب",
+    "username": "اسم المستخدم",
+    "usernamePlaceholder": "ادخل اسم المستخدم",
+    "email": "البريد الالكتروني",
+    "emailPlaceholder": "ادخل البريد الالكتروني",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "ادخل كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "confirmPasswordPlaceholder": "تأكيد كلمة المرور",
+    "profilePic": "صورة الملف الشخصي",
+    "uploadButton": "رفع",
+    "button": "إنشاء حساب",
+    "toaster": {
+      "titleSuccess": "تم بنجاح",
+      "titleError": "حدث خطأ",
+      "messageUpload": "تم رفع الصوره بنجاح",
+      "messageUploadError": "يوجد خطأ في رفع الصورة",
+      "messageEmptyFields": "ادخل جميع الحقول",
+      "messageConfirmPassword": "كلمة المرور غير متطابقة",
+      "messageSignUp": "تم انشاء حساب بنجاح",
+      "messageError": "حدث خطأ حاول مرة اخرى"
+    }
+  },
+  "SignIn": {
+    "title": "تسجيل الدخول",
+    "username": "اسم المستخدم",
+    "email": "البريد الالكتروني",
+    "inputPlaceholder": "ادخل اسم المستخدم او البريد الالكتروني",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "ادخل كلمة المرور",
+    "button": "تسجيل الدخول",
+    "toaster": {
+      "titleSuccess": "تم بنجاح",
+      "titleError": "حدث خطأ",
+      "messageSignIn": "تم تسجيل الدخول بنجاح",
+      "messageError": "البريد الالكتروني او اسم المستخدم او كلمة المرور غير صحيحة",
+      "messageEmptyFields": "ادخل جميع الحقول"
+    }
+  },
+  "Theming": {
+    "dark": "داكن",
+    "light": "مضيئ"
+  }
+}
